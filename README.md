@@ -11,4 +11,4 @@ Welcome to the **IDM Activation Script** repository! This script allows you to a
    Copy and paste the code below into PowerShell and press **Enter**:
 
    ```powershell
-   irm https://github.com/sadmanadib33/IDM_Activation_hawkeye/activate.ps1 | iex
+   irm https://github.com/hawkeye-bd/IDM_Activation_hawkeye/activate.ps1 | iex
